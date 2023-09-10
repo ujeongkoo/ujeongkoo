@@ -1,4 +1,10 @@
-### Hi there 👋
+## YuJeong-Koo's Github :star:
+
+---
+
+### :student: Major
+
+- Computer Science, SeoulTech University, 2020 - 2024
 
 <!--
 **ujeongkoo/ujeongkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
