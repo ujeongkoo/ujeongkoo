@@ -1,7 +1,5 @@
 ## YuJeong-Koo's Github :star:
 
----
-
 ### :student: Major
 
 - Computer Science, SeoulTech University, 2020 - 2024
